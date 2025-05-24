@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/CustomTkinter-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL%20Injection-FF0000?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD%20ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
 
