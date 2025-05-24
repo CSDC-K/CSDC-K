@@ -20,7 +20,11 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL%20Injection-FF0000?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSFConsole-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARP%20Spoofing-FFD700?style=for-the-badge&logo=networkx&logoColor=black" />
 </p>
+
 
 
 
