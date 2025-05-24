@@ -4,9 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSDC-K&layout=compact&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CSDC-K&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-#![Snake animation](https://github.com/CSDC-K/snk/tree/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
-[![Watch my contribution snake](https://CSDC-K.github.io/snk/github-contribution-grid-snake-dark.svg)](https://CSDC-K.github.io/snk/github-contribution-grid-snake-dark.svg)
 
 
 
