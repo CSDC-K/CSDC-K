@@ -17,6 +17,6 @@
 
 
 ### 🔥 Best Projects
-- [Python Lane Detection AI](https://github.com/CSDC-K/Multiple-Remote-Control-System)
-- [My Autonomous Vehicle Project](https://github.com/CSDC-K/PB3D-LOGIN-SYSTEM)
+- [Remote Controller](https://github.com/CSDC-K/Multiple-Remote-Control-System)
+- [3D Login System](https://github.com/CSDC-K/PB3D-LOGIN-SYSTEM)
 
