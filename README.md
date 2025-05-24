@@ -4,3 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSDC-K&layout=compact&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CSDC-K&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### 🔥 Best Projects
+- [Python Lane Detection AI](https://github.com/CSDC-K/Multiple-Remote-Control-System)
+- [My Autonomous Vehicle Project](https://github.com/CSDC-K/PB3D-LOGIN-SYSTEM)
+
