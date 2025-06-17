@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CSDC-K&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h3 align="center">🚀 Tech Stack</h3>
+### 🚀 **Tech Stack**
 
 ---
 
@@ -44,10 +44,14 @@
   <img src="https://img.shields.io/badge/ARP%20Spoofing-FFD700?style=for-the-badge&logo=networkx&logoColor=black" />
 </p>
 
+---
 
+### 💻 **Programming Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-
-
+---
 
 ### 🔥 Best Projects
 - [Remote Controller](https://github.com/CSDC-K/Multiple-Remote-Control-System)
