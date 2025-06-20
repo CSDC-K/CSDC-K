@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CSDC-K&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CSDC-K&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSDC-K&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-  
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CSDC-K&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSDC-K&layout=compact&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=CSDC-K&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
