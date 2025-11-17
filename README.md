@@ -55,6 +55,12 @@
 
 </div>
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSDC-K&layout=compact&theme=dark)
+
+</div>
+
 
 No Contact ...
 
