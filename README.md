@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=CSDC-K&show_icons=true&theme=github_dark&hide_border=true">
+ 
   <img align="center" width="400" src="https://streak-stats.vercel.app?user=CSDC-K&theme=github-dark&hide_border=true">
   <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CSDC-K&theme=github_dark&show_icons=true&bg_color=0111111">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=CSDC-K&theme=onedark&no-frame=False&row=1&margin-w=20&no-bg=true">
