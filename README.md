@@ -6,7 +6,7 @@
  
   <img align="center" width="400" src="https://streak-stats.vercel.app?user=CSDC-K&theme=github-dark&hide_border=true">
   <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CSDC-K&theme=github_dark&show_icons=true&bg_color=0111111">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=CSDC-K&theme=onedark&no-frame=False&row=1&margin-w=20&no-bg=true">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=CSDC-K&theme=onedark&filter=multi_language,long_time_user,commit,repo,star,follower" alt="Trophies" />
 </p>
 
 <div align="center" style="border:2px solid #1c9eff; border-radius:15px; padding:20px; max-width:900px; background-color:#0B0E14;">
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSDC-K&layout=compact&theme=dark)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CSDC-K&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 
 </div>
 
