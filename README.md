@@ -3,11 +3,32 @@
 </p>
 
 <p align="center">
- 
   <img align="center" width="400" src="https://streak-stats.vercel.app?user=CSDC-K&theme=github-dark&hide_border=true">
   <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CSDC-K&theme=github_dark&show_icons=true&bg_color=0111111">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=CSDC-K&theme=onedark&filter=multi_language,long_time_user,commit,repo,star,follower" alt="Trophies" />
 </p>
+
+---
+
+### 🚀 Featured Projects & Research
+<div align="left">
+
+- **🏎️ Autonomous Vehicle (18th Int. MEB Robot Competition)** *Building a high-performance autonomous system using **Raspberry Pi 5**, **Hailo-8 AI Accelerator**, and **Rust**. Implementing PID control in Rust for safety-critical tasks while offloading YOLOv8 inference to Hailo via Python/PyO3 bridge.*
+
+- **🦀 ORYXIS (Rust-based LLM Acceleration)** *An experimental project focusing on accelerating Large Language Models (LLMs) on **AMD (ROCm/Vulkan)** and **NVIDIA (Jetson)** hardware using Rust for memory-efficient and fast execution.*
+
+- **🤖 Mini-Sumo & Maze Robotics** *Award-winning robotics projects focusing on low-level C++/C# control and real-time sensor fusion.*
+
+</div>
+
+---
+
+### 🏆 Honors & Awards
+- **2nd Place** - 17th International MEB Robot Competition (Mini-Sumo Category)
+- **3rd Place** - DIY Workshop Robotics (Mini-Sumo & Maze)
+- **Presenter** - TÜBİTAK 4006 Science Fair (Multiple Robotics Projects)
+
+---
 
 <div align="center" style="border:2px solid #1c9eff; border-radius:15px; padding:20px; max-width:900px; background-color:#0B0E14;">
 
@@ -17,7 +38,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-
 </p>
 
 <h3 align="center" style="color:#1c9eff;">Hardware / Platforms</h3>
@@ -41,11 +61,6 @@
   <img src="https://img.shields.io/badge/SQL%20Injection-CC0000?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-<h3 align="center" style="color:#1c9eff;">GUI / Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/CustomTkinter-2C2C2C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
 <h3 align="center" style="color:#1c9eff;">Operating Systems</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
@@ -56,18 +71,12 @@
 </div>
 
 <div align="center">
-
+<br>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CSDC-K&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-
+<br>
+<p><b>Open for academic collaborations and research opportunities in Robotics & Systems Engineering.</b></p>
 </div>
-
-
-No Contact ...
-
-
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer">
 </p>
-
-
