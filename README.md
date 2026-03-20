@@ -77,7 +77,6 @@ My software journey started at age 10, while my peers were playing outside. Duri
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=openai&logoColor=black"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
 <h3 align="center" style="color:#1c9eff;">Operating Systems (Linux Power User)</h3>
