@@ -4,8 +4,7 @@
 
 <p align="center">
   <img align="center" width="400" src="https://streak-stats.vercel.app?user=CSDC-K&theme=github-dark&hide_border=true">
-  <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CSDC-K&theme=github_dark&show_icons=true&bg_color=0111111">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=CSDC-K&theme=onedark&filter=multi_language,long_time_user,commit,repo,star,follower" alt="Trophies" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=CSDC-K&theme=github-compact">
 </p>
 
 ---
