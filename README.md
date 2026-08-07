@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi,%20I'm%20Kuzey&fontSize=70&fontAlign=50&fontAlignY=30&desc=Coding%20Without%20Borders&descAlign=50&descSize=20&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Kuzey&fontSize=70&fontAlign=50&fontAlignY=30&desc=Coding%20Without%20Borders&descAlign=50&descSize=20&animation=twinkling">
 </p>
 
 <p align="center">
@@ -9,11 +9,11 @@
 
 ---
 
-# About Me
+# About Kuzey
 
-I am a vocational high school student under the AMP track, specializing in systems programming, hardware integration, and software development. My focus is on building low-level architectures, autonomous systems, and highly optimized tools primarily using Rust and Python. 
+Kuzey is a vocational high school student under the AMP track, specializing in systems programming, hardware integration, and software development. His focus is on building low-level architectures, autonomous systems, and highly optimized tools primarily using Rust and Python. 
 
-My background in software wasn't strictly traditional. Managing a family souvenir shop alongside my father after school hours taught me practical problem-solving. From there, I transitioned entirely into self-taught development, focusing on technical system logic. I utilize Linux-based operating systems, specifically Arch Linux and CachyOS, for my daily workflow and development environments. 
+His background in software wasn't strictly traditional. Managing a family souvenir shop alongside his father after school hours taught him practical problem-solving. From there, he transitioned entirely into self-taught development, focusing on technical system logic. He utilizes Linux-based operating systems, specifically Arch Linux and CachyOS, for his daily workflow and development environments. 
 
 ---
 
@@ -27,14 +27,14 @@ My background in software wasn't strictly traditional. Managing a family souveni
 - **Trigox**
   * A desktop automation tool built with the Tauri framework, TypeScript, and Rust. It utilizes a high-performance backend to monitor system triggers—like file changes or application states—and automatically executes actions such as webhooks, shell scripts, and notifications.
 
-- **Makereadme (EWUT)**
+- **Makereadme**
   * An autonomous agentic flow tool that maps project directory structures and uses LLMs to dynamically generate detailed README files through structured read, write, and note actions.
 
 - **MEDA (Medical Exercise Digital Interface)**
-  * A healthcare software program bridging a physician interface with patient tracking. The doctor's UI is built with Python (CustomTkinter), backed by secure data processing services written in Rust.
+  * A healthcare software program bridging a physician interface with patient tracking. The doctor's UI is built with Python (CustomTkinter), the client side was written fully in Rust, and it uses Python for camera tracking.
 
 - **Autonomous Vehicle Platform (18th Int. MEB Robot Competition)**
-  * Mapped lanes and intersections explicitly for an autonomous vehicle platform. Built a software architecture integrating a Raspberry Pi 5, a Hailo-8 AI Accelerator (YOLOv8 via PyO3), and a Rust-based PID controller.
+  * Mapped lanes and intersections explicitly for an autonomous vehicle platform. Built a software architecture integrating a Raspberry Pi 5, a Hailo-8 AI Accelerator, and a model trained by him and his team.
 
 - **SoundOfYourHardware**
   * A background utility that monitors system resources like CPU, memory, and temperature limits, triggering system notifications and custom sounds when thresholds are breached.
@@ -44,14 +44,12 @@ My background in software wasn't strictly traditional. Managing a family souveni
 
 ### Experience & Awards
 
-- **1st Place** - Hack Club Horizons Arcana (Singapore, 2026)
-- **Participant** - Technical Hackathon (Berlin, Germany, July 2026)
-- **Registered** - Hepsiburada & Teknofest 2026 Artificial Intelligence Competition (Machine Learning for Logistics)
-- **Participant** - KodeLig '26 Kocaeli National Robotics Competition
+- **1st Place** - Hack Club Horizons Arcana International Hackathon (Singapore, 2026)
+- **Competitor** - KodeLig '26 Kocaeli National Robotics Competition
 - **Competitor** - 18th International MEB Robot Competition (Autonomous Vehicle Category)
 - **2nd Place** - 17th International MEB Robot Competition (Mini-Sumo Category)
 - **3rd Place** - DIY Workshop Kütahya Robotics Competition (Mini-Sumo & Maze Solver Categories)
-- **Presenter** - TÜBİTAK 4006 Science Fair
+- **Project Presenter** - TÜBİTAK 4006 Science Fair
 
 ---
 
