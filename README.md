@@ -34,7 +34,7 @@ His background in software wasn't strictly traditional. Managing a family souven
   * A healthcare software program bridging a physician interface with patient tracking. The doctor's UI is built with Python (CustomTkinter), the client side was written fully in Rust, and it uses Python for camera tracking.
 
 - **Autonomous Vehicle Platform (18th Int. MEB Robot Competition)**
-  * Mapped lanes and intersections explicitly for an autonomous vehicle platform. Built a software architecture integrating a Raspberry Pi 5, a Hailo-8 AI Accelerator, and a model trained by him and his team.
+  * Mapped lanes and intersections explicitly for an autonomous vehicle platform. Built a software architecture integrating a Raspberry Pi 5, a Hailo-8 AI Accelerator, and a model trained by him. His team just helped him in testing phase.
 
 - **SoundOfYourHardware**
   * A background utility that monitors system resources like CPU, memory, and temperature limits, triggering system notifications and custom sounds when thresholds are breached.
