@@ -21,23 +21,26 @@ His background in software wasn't strictly traditional. Managing a family souven
 
 <div align="left">
 
-- **Oryxis**
-  * An AI assistant project built entirely in Rust. It features a highly optimized performance architecture and dynamic tool-loading mechanics designed to seamlessly extend system capabilities.
+- **[Defused](https://github.com/firancly/Defused)** — 1st place, Hack Club Horizons Arcana (Singapore, 2026)
+  * A hardware bomb-defusal game built with Rust, Tauri, React and an ESP32. As backend lead, he wrote most of the Rust/Tauri backend: the game engine, 4 puzzle modules and the groundwork of the serial layer between the ESP32 and the game screens.
 
-- **Trigox**
-  * A desktop automation tool built with the Tauri framework, TypeScript, and Rust. It utilizes a high-performance backend to monitor system triggers—like file changes or application states—and automatically executes actions such as webhooks, shell scripts, and notifications.
+- **[Autonomous Vehicle](https://github.com/CSDC-K/Autonomous-Vehicle)** — 18th International MEB Robot Competition
+  * A self-driving car built on a Raspberry Pi 5 with a Hailo-8L AI accelerator. He collected and labeled his own datasets to train YOLOv8-seg models for lane lines and for road signs, traffic lights and obstacles, and drove the competition with an OpenCV lane pipeline (bird's-eye view, sliding windows, PID steering). He built the software alone; teammates helped with testing on the track.
 
-- **Makereadme**
-  * An autonomous agentic flow tool that maps project directory structures and uses LLMs to dynamically generate detailed README files through structured read, write, and note actions.
+- **[Oryxis](https://github.com/CSDC-K/Oryxis)**
+  * An AI assistant project built entirely in Rust. It loads only the skills relevant to the user's request, so LLMs can act on the computer without filling their context window.
 
-- **MEDA (Medical Exercise Digital Interface)**
-  * A healthcare software program bridging a physician interface with patient tracking. The doctor's UI is built with Python (CustomTkinter), the client side was written fully in Rust, and it uses Python for camera tracking.
+- **[Trigox](https://github.com/CSDC-K/Trigox)**
+  * A desktop automation tool built with Tauri, TypeScript and Rust. It watches files, folders and apps and automatically runs actions such as webhooks, shell scripts and notifications.
 
-- **Autonomous Vehicle Platform (18th Int. MEB Robot Competition)**
-  * Mapped lanes and intersections explicitly for an autonomous vehicle platform. Built a software architecture integrating a Raspberry Pi 5, a Hailo-8 AI Accelerator, and a model trained by him. His team just helped him in testing phase.
+- **[Makereadme](https://github.com/CSDC-K/Makereadme)**
+  * An agentic CLI tool that maps a project's directory structure and uses LLMs to write detailed README files through structured read, note and write actions.
 
-- **SoundOfYourHardware**
-  * A background utility that monitors system resources like CPU, memory, and temperature limits, triggering system notifications and custom sounds when thresholds are breached.
+- **[MEDA — Medical Exercise Digital Interface](https://github.com/CSDC-K/M.E.D.A)**
+  * Physical-therapy software connecting doctors and patients. The doctor's app is built with Python (CustomTkinter); the patient app is written in Rust (Slint UI) and uses Python with MediaPipe for real-time exercise tracking.
+
+- **[TheSoundOfYourHardware](https://github.com/CSDC-K/TheSoundOfYourHardware)**
+  * A Tauri + Rust desktop app that watches CPU usage, memory usage and temperature and plays the sound and sound effects you choose when a limit is reached.
 </div>
 
 ---
@@ -45,7 +48,7 @@ His background in software wasn't strictly traditional. Managing a family souven
 ### Experience & Awards
 
 - **1st Place** - Hack Club Horizons Arcana International Hackathon (Singapore, 2026)
-- **Competitor** - KodeLig '26 Kocaeli National Robotics Competition
+- **Team Leader** - KodeLig '26 Kocaeli National Robotics Competition (Fast Line Follower)
 - **Competitor** - 18th International MEB Robot Competition (Autonomous Vehicle Category)
 - **2nd Place** - 17th International MEB Robot Competition (Mini-Sumo Category)
 - **3rd Place** - DIY Workshop Kütahya Robotics Competition (Mini-Sumo & Maze Solver Categories)
@@ -68,7 +71,7 @@ His background in software wasn't strictly traditional. Managing a family souven
 <h3 align="center" style="color:#1c9eff;">Hardware, AI & Integration</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hailo_8-0066FF?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hailo--8L-0066FF?style=for-the-badge&logo=ai&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=openai&logoColor=black"/>
   <img src="https://img.shields.io/badge/PyO3-EE4C2C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
