@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Kuzey&fontSize=70&fontAlign=50&fontAlignY=30&desc=Coding%20Without%20Borders&descAlign=50&descSize=20&animation=twinkling">
-</p>
+<a href="https://github.com/CSDC-K">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CSDC-K/CSDC-K/main/dark_mode.svg">
+    <img alt="Kuzey Ceylan's terminal-style GitHub profile card" src="https://raw.githubusercontent.com/CSDC-K/CSDC-K/main/light_mode.svg">
+  </picture>
+</a>
 
 <p align="center">
   <img align="center" width="400" src="https://streak-stats.vercel.app?user=CSDC-K&theme=github-dark&hide_border=true">
